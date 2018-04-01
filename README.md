@@ -1,3 +1,3 @@
 # Test
 
-just small a test
+Just small a test.
