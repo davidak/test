@@ -1,4 +1,5 @@
 # Test
 
-Just small a test in my fork.
+Just a test.
 
+![demo](demo.svg)
